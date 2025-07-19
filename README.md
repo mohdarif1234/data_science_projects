@@ -1,2 +1,4 @@
-# data_science_projects
-data_science_projects
+# Important git commands
+- git add <file_name>
+- git commit -m "<commit message>"
+- git push origin master
